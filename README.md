@@ -31,7 +31,7 @@ No coding needed. Just download and launch.
 ### 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a8069b4c-e3e6-4395-90a3-03bd3fd40d8d" width="700" alt="Strivea UI Preview">
+  <img src="https://github.com/user-attachments/assets/951bf979-ae67-4432-9592-41ade5a77090" width="700" alt="Strivea UI Preview">
 </p>
 
 ---
